@@ -1,0 +1,43 @@
+===================================================================
+                  NEXUS TECHNOLOGIES CORP.
+            INTERNAL EMPLOYEE HANDBOOK & POLICIES (2026)
+===================================================================
+
+1. WORKING HOURS & REMOTE WORK POLICY
+-------------------------------------------------------------------
+- Standard working hours are 9:00 AM to 5:00 PM EST, Monday through Friday.
+- Core Collaboration Hours are between 10:00 AM and 3:00 PM EST. All staff 
+  must be reachable on Slack during core hours.
+- Hybrid Work: Employees are permitted to work remotely up to 2 days per week 
+  with prior approval from their direct manager.
+- Remote work stipend: A one-time stipend of $500 is provided to full-time 
+  employees upon hiring for home office equipment setup.
+
+2. PAID TIME OFF (PTO) & LEAVE
+-------------------------------------------------------------------
+- Vacation Leave: Full-time employees receive 18 days of paid annual leave per calendar year.
+- Sick Leave: Employees receive 10 paid sick days annually. A medical note 
+  is required for sick leave exceeding 3 consecutive business days.
+- Parental Leave: Primary caregivers receive 16 weeks of fully paid leave; 
+  secondary caregivers receive 6 weeks of fully paid leave.
+- Unused Vacation Rollover: A maximum of 5 unused vacation days may be carried 
+  over into the following calendar year. Carried-over days expire on March 31st.
+
+3. HARDWARE & EQUIPMENT EXPENSES
+-------------------------------------------------------------------
+- Laptops: All software engineers receive a 16-inch MacBook Pro (M-series).
+- Phone Allowance: Senior managers and client-facing roles receive a monthly 
+  mobile phone reimbursement of $75.
+- Learning & Development: Employees receive an annual stipend of $1,200 for 
+  courses, books, or technical certifications. Submissions require pre-approval 
+  via the HR portal.
+
+4. TRAVEL & MEAL REIMBURSEMENT
+-------------------------------------------------------------------
+- Travel Per Diem: Employees traveling for business receive a $65 daily meal allowance.
+- Flight Class: Economy class must be booked for domestic flights under 6 hours. 
+  Business class is permitted for international flights over 8 hours.
+- Expense Reports: All receipts over $25 must be submitted via Concur within 
+  14 days of travel completion.
+
+===================================================================
